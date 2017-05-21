@@ -18,5 +18,5 @@
 <ul> <i> Player's spaceship will automaticly shoot </i></ul>
 
 
-<ul> <b>-Just for Fun :Just a few levels </b></ul>
+<ul> <b>-Just for Fun : Just a few levels </b></ul>
 <ul> <i>This game is not a commercial one so don't put to many levels to it. Just make it for fun</i></ul>
