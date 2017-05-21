@@ -1,7 +1,8 @@
 <h1> GameDev </h1>
 <br>
 <h2> +Name: unamed </h2>
-<h2> +Genre: 2D, shooting, casual</h2>
-<h3> +Art : eye-friendly </h3>
-<p>Art should be good, but not too fancy. </p>
-<h2>+Concepts:</h2>
+<h2> +Genre: Arcade game</h2>
+<h3> +Platform : Android </h3>
+<h3> Preliminary: read file: PreliminaryDesign.md </h3>
+<h3> Core philosophy:</h3>
+<ul> This game is about testing the player’s reflexes </ul>
