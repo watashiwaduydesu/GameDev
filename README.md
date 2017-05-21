@@ -8,3 +8,6 @@
 <ul> This game is about testing the player’s reflexes </ul>
 <ul> This game is about space fights. </ul>
 <ul> This game is sci-fi. </ul>
+<h2> Feartures: </h2>
+<ul> *-Space Fight* <ul>
+<ul> **-Player have a spaceship and fighting enemy's spaceships** <ul>
