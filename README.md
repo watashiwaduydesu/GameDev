@@ -9,5 +9,5 @@
 <ul> This game is about space fights. </ul>
 <ul> This game is sci-fi. </ul>
 <h2> Feartures: </h2>
-*-Space Fight* 
-<ul> **-Player have a spaceship and fighting enemy's spaceships** <ul>
+<ul> <b>Space Fight </b></ul>
+<ul> <i>Player have a spaceship and fighting enemy's spaceships <i><ul>
