@@ -5,4 +5,4 @@
 <h3> +Platform : Android </h3>
 <h3> Preliminary: read file: PreliminaryDesign.md </h3>
 <h3> Core philosophy:</h3>
-<ul> This game is about testing the player’s reflexes </ul>
+<ol> This game is about testing the player’s reflexes </ol>
