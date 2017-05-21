@@ -1,4 +1,4 @@
-# GameDev
+## GameDev
 
-Tên        : <chưa có>
+#Tên        : <chưa có>
 Thể loại   : <2D> <Bắn Máy Bay>
