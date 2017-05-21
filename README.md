@@ -5,4 +5,6 @@
 <h3> +Platform : Android </h3>
 <h3> Preliminary: read file: PreliminaryDesign.md </h3>
 <h3> Core philosophy:</h3>
-<ol> This game is about testing the player’s reflexes </ol>
+<ul> This game is about testing the player’s reflexes </ul>
+<ul> This game is about space fights. </ul>
+<ul> This game is sci-fi. </ul>
