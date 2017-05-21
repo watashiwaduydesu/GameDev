@@ -2,5 +2,5 @@
 
 <h2> +Name: unamed </h2>
 <h2> +Genre: 2D, shooting, casual</h2>
-<h3>    +Art : eye-friendly </h3>
-<p>      Art should be good, but not too fancy </p>
+<h3> +Art : eye-friendly </h3>
+<p>Art should be good, but not too fancy </p>
