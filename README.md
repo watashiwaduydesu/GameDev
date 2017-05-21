@@ -11,12 +11,12 @@
 <h2> Feartures: </h2>
 
 <ul> <b>-Space Fight </b></ul>
-<ul> <i>Player have a spaceship and fighting enemy's spaceships <i><ul>
+<ul> <i>Player have a spaceship and fighting enemy's spaceships </i></ul>
 
 
 <ul> <b>-Auto-shoot </b></ul>
-<ul> <i> Player's spaceship will automaticly shoot <i><ul>
+<ul> <i> Player's spaceship will automaticly shoot </i></ul>
 
 
 <ul> <b>-Just for Fun :Just a few levels </b></ul>
-<ul> <i>This game is not a commercial one so don't put to many levels to it. Just make it for fun<i><ul>
+<ul> <i>This game is not a commercial one so don't put to many levels to it. Just make it for fun</i></ul>
