@@ -2,5 +2,5 @@
 
 #Tên
 <chưa có>
--Thể loại
+#Thể loại
 <2D> <Bắn Máy Bay>
